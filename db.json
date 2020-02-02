@@ -1,3 +1,37 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "Asses",
+      "description": "Big asses everywhere.",
+      "id": 1
+    },
+    {
+      "title": "Balls",
+      "description": "Unforunately, balls.",
+      "id": 2
+    },
+    {
+      "title": "Boner",
+      "description": "Raging...",
+      "id": 3
+    },
+    {
+      "title": "Authenticated Balls",
+      "description": "These balls were made by me, the user.",
+      "userId": "105637384157421734104",
+      "id": 4
+    },
+    {
+      "title": "Snoggers",
+      "description": "Jiggle em'",
+      "userId": "105637384157421734104",
+      "id": 5
+    },
+    {
+      "title": "Indirect glance at the balls.",
+      "description": "After refuctoring stream create.",
+      "userId": "105637384157421734104",
+      "id": 6
+    }
+  ]
 }
